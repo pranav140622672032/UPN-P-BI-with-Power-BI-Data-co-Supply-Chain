@@ -1,4 +1,4 @@
-# UPN-P-BI-with-Power-BI-Data-co-Supply-Chain
+# UPN-Power_BI-with-PowerBI-Supply-Chain-blob-main-README.md
 about time series ,customer analysis and product anlaysis 
 completed this project as part of my BI with power BI internship with united network of professionals (UNP).
 
